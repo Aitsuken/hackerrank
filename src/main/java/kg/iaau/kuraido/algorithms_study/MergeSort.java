@@ -1,6 +1,6 @@
-package kg.iaau.kuraido.solutions;
+package kg.iaau.kuraido.algorithms_study;
 
-public class InsertionSort {
+public class MergeSort {
     public static void main(String[] args) {
         int[] test = {1, 3, 5, 4, 8, 7, 6, 2, 9};
 
